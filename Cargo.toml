@@ -1,0 +1,13 @@
+[package]
+name = "nucypher-core-compat"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# nucypher_core = { package = "nucypher-core", version = "0.5" }
+nucypher_core = { package = "nucypher-core", version = "0.4" }
+# nucypher_core = { package = "nucypher-core", version = "0.3" }
+# nucypher_core = { package = "nucypher-core", version = "0.2" }
+# nucypher_core = { package = "nucypher-core", version = "0.1" }
